@@ -1,1 +1,2 @@
-codeThis is the second test file.
+This is the second test file.
+This change was made to the second file in the branch alien-plot.
