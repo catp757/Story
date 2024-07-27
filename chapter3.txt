@@ -1,1 +1,2 @@
 This is the third test file.
+This change was made to the third file in the branch alien-plot.
